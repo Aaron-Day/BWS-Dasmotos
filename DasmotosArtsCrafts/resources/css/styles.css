@@ -7,7 +7,7 @@ h1 {
 	font-weight: bold;
 	color: khaki;
 	text-align: center;
-	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+	background-image: url(../images/pattern.jpeg);
 }
 
 h2 {
@@ -16,15 +16,15 @@ h2 {
 	color: white;
 }
 
-.bk-green {
+#bk-green {
 	background-color: mediumspringgreen;
 }
 
-.bk-red {
+#bk-red {
 	background-color: lightcoral;
 }
 
-.bk-blue {
+#bk-blue {
 	background-color: skyblue;
 }
 
